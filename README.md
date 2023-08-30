@@ -1,2 +1,1 @@
-# Defishards-near
-Use Chakra &amp; near web3 integration
+Liquid NFT Platform on Near Protocol

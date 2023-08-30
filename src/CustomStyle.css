@@ -1,0 +1,33 @@
+.progress-bar {
+    background: linear-gradient(#203448, #000C1F) !important;
+}
+
+.main-nav-logo {
+    position: fixed;
+    z-index: 1000000;
+    top: 8px;
+    border-radius: 50%;
+    object-fit: cover;
+    width: 70px !important;
+}
+
+.color-mode-btn {
+    cursor: pointer;
+}
+
+.color-mode-btn:hover {
+    filter: brightness(150%);
+}
+
+.rdt input {
+    background-color: #ffffff00 !important;
+    color: #919191 !important;
+}
+
+
+.chakra-modal__content-container {
+    z-index: 9999999 !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
